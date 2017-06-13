@@ -1,1 +1,4 @@
 This is only a test of git stuff.
+
+A second sentence.
+Thanks you.
